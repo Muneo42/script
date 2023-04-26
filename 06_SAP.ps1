@@ -1,0 +1,1 @@
+& "S:\commun\- NGERP DOC\SAP_760 - V1.bat"
