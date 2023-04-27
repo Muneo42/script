@@ -5,5 +5,3 @@ Then run 'run_script.bat'
 After all the scripts you will still need to setup edge(settings,favorites,etc...),
 user image, and microphone privacy.
 And the PC is ready for swap.
-
-A Script I did for Samsung Electronics France to make the preparation of new PC faster.
