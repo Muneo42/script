@@ -9,7 +9,6 @@ How to use it?
 	* Outlook
 	* user image
 	* microphone privacy
-
 And the PC is ready for swap enjoy your free time. :)
 
-# For more info contact me at jjpaning@gmail.com
+For more info contact me at jjpaning@gmail.com
