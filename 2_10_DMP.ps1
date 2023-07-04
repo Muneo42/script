@@ -5,4 +5,4 @@ echo $rootPath
 mkdir "C:\_DMP"
 Start-Process "C:\Sources\GREEN_PC-FILES\GreenPCFileDeletionSetup.msi"
 Start-Process "C:\Sources\GREEN_PC\x64\GreenPCAddin_x64.msi"
-New-PSDrive -Name "X" -Root $rootPath -Persist -PSProvider "FileSystem"
+New-PSDrive -Name "M" -Root $rootPath -Persist -PSProvider "FileSystem"
