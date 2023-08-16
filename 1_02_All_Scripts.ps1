@@ -5,5 +5,6 @@
 Start-Process "C:\Sources\Samsung theme_1.0.0.0\Inst.exe"
 & "C:\Sources\1 - Activation SEF  OK\2016\Office 2016 certification script.cmd"
 & "C:\Sources\WINDOWS-10-KMS Activation\win10_KMS.cmd"
+& .\winget.cmd
 
 Copy-Item -Path "C:\Sources\copier sur bureau!\*" -Destination "$env:USERPROFILE\Desktop" -Recurse:$false
