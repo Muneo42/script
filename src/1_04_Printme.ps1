@@ -1,5 +1,5 @@
 # Open the printer
-Start-Process C:\script_folder\printme
+Start-Process C:\script\src\printme
 
 # Pause the script to ensure the drivers are installed
 Start-Sleep -Seconds 10
