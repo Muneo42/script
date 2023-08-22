@@ -1,0 +1,15 @@
+étape 1
+
+installer office 2013
+
+
+étape 2
+
+déplacer le fichier VBS "OSPP" vers 
+C:\Program Files (x86)\Microsoft Office\Office15\  """"""""""si 32 bit"""""""""""
+
+étape 3
+
+lancer le script "office 2013 certification script"
+
+Moise

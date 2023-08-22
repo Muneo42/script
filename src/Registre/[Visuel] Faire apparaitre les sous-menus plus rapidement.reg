@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Faire apparaitre les sous-menus plus rapidement
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"MenuShowDelay"="0"

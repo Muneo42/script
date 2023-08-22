@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+;Desactiver l envoi de donnees anonyme a microsoft
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\SQMClient\Windows]
+"CEIPEnable"=dword:00000000

@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;Amelioration des performances du systeme de fichier NTFS
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NtfsDisableCompression"=dword:00000000
+"NtfsDisableLastAccessUpdate"=dword:00000001
+"NtfsDisable8dot3NameCreation"=dword:00000001
+"Win95TruncatedExtensions"=dword:00000001
+"Win31FileSystem"=dword:00000000

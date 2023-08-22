@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Optimiser la navigation
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"BufferMultiplier"=dword:00000400
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
+"PowerdownAfterShutdown"="1"

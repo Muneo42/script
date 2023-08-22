@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".3gp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".3gp2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".3gpp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="WMP11.AssocFile.ASF" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".asx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".avi" ProgId="WMP11.AssocFile.AVI" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".cr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".htm" ProgId="htmlfile" ApplicationName="Internet Explorer" />
+  <Association Identifier=".html" ProgId="htmlfile" ApplicationName="Internet Explorer" />
+  <Association Identifier=".inf" ProgId="inffile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".ini" ProgId="inifile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".kdc" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".log" ProgId="txtfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".m1v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".m2t" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".m2ts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".m4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mht" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mhtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mk3d" ProgId="WMP11.AssocFile.MK3D" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mkv" ProgId="WMP11.AssocFile.MKV" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".mov" ProgId="WMP11.AssocFile.MOV" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mp2v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mp4" ProgId="WMP11.AssocFile.MP4" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mp4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mpa" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".MPE" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mpeg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mpg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mpv2" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ogm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".ogv" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".ogx" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pdf" ProgId="Acrobat.Document.DC" ApplicationName="Adobe Acrobat DC" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ps1" ProgId="Microsoft.PowerShellScript.1" ApplicationName="Bloc-notes" />
+  <Association Identifier=".psd1" ProgId="Microsoft.PowerShellData.1" ApplicationName="Bloc-notes" />
+  <Association Identifier=".psm1" ProgId="Microsoft.PowerShellModule.1" ApplicationName="Bloc-notes" />
+  <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".raw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".scp" ProgId="txtfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".svg" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Visionneuse de photos Windows" />
+  <Association Identifier=".tiff" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Visionneuse de photos Windows" />
+  <Association Identifier=".tod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".TS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".TTS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Navigateur Internet" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".webm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="WMP11.AssocFile.ASF" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".wmv" ProgId="WMP11.AssocFile.WMV" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".wmx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".wtx" ProgId="txtfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".wvx" ProgId="WMP11.AssocFile.WVX" ApplicationName="Lecteur Windows Media" />
+  <Association Identifier=".xvid" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films et TV" />
+  <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Cartes" />
+  <Association Identifier="http" ProgId="IE.HTTP" ApplicationName="Internet Explorer" />
+  <Association Identifier="https" ProgId="IE.HTTPS" ApplicationName="Internet Explorer" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook 2016" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mswindowsvideo" ProgId="AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza" ApplicationName="Films et TV" />
+  <Association Identifier="read" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+</DefaultAssociations>

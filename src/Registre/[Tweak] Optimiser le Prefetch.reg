@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+;Optimiser le Prefetch
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"BaseTime"=dword:1038f9c6
+"BootId"=dword:00000007
+"EnableBootTrace"=dword:00000000
+"EnablePrefetcher"=dword:00000002
+"EnableSuperfetch"=dword:00000002

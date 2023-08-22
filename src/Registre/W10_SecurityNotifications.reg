@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+
+
+REM Disable Firewall & Security Notifications
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Notifications\Settings\Windows.SystemToast.SecurityAndMaintenance]
+"Enabled"=dword:00000000
+
+
+
+REM Disable Symantec Notifications
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Notifications\Settings\Symantec.ToastUI]
+"Enabled"=dword:00000000
