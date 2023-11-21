@@ -27,7 +27,14 @@ setlocal EnableDelayedExpansion
 
 set script_folder=C:\script\src
 
-for /r "%script_folder%" %%f in (*.ps1) do (
+for /r "%script_folder%" %%f in (1_*.ps1) do (
+  echo Running script: %%~nxf
+  powershell -File "%%~f"
+  echo Done script: %%~nxf
+  echo.
+  timeout /t 5
+)
+for /r "%script_folder%" %%f in (2_*.ps1) do (
   echo Running script: %%~nxf
   powershell -File "%%~f"
   echo Done script: %%~nxf

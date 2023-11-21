@@ -32,7 +32,7 @@ for /r "%script_folder%" %%f in (1_*.ps1) do (
   powershell -File "%%~f"
   echo Done script: %%~nxf
   echo.
-  pause
+  timeout /t 5
 )
 setlocal
 set UpperUserName=%UserName%

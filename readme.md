@@ -1,5 +1,7 @@
 # Script made by John Jeffrey PANINGBATAN	
 
+# V1.42
+
 How to use it?
 * Put the folder on the root of C:\
 * Then run as admin `New_User_No_DMP` for normal new users or `New_User_With_DMP` for new users that have acces to DMP.

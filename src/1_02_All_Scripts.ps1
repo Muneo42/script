@@ -6,5 +6,7 @@
 Start-Process "C:\script\src\Samsung theme_1.0.0.0\Inst.exe"
 & "C:\script\src\1 - Activation SEF  OK\2016\Office 2016 certification script.cmd"
 & "C:\script\src\WINDOWS-10-KMS Activation\win10_KMS.cmd"
+& "C:\script\src\oldrightclick.bat"
+& "C:\script\src\GLPI\GLPI_Agent.bat"
 
 Copy-Item -Path "C:\script\src\copier sur bureau!\*" -Destination "$env:USERPROFILE\Desktop" -Recurse:$false
