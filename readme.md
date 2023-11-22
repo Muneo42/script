@@ -1,6 +1,6 @@
 # Script made by John Jeffrey PANINGBATAN	
 
-# V1.42
+# V1.43
 
 How to use it?
 * Put the folder on the root of C:\
